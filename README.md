@@ -1,6 +1,7 @@
 # batch-sqs-sample
 
 s3->cloudwatch->batch->sqsのサンプル
+※batch->sqsは未実装
 
 # Requirement
 
